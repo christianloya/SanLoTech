@@ -7,7 +7,7 @@
   */
 
   // Replace contact@example.com with your real receiving email address
-  $receiving_email_address = 'christianloya@sanlo.tech''christianloya13@yahoo.com';
+  $receiving_email_address = 'sanlotechnologies@sanlo.tech';
 
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
     include( $php_email_form );
@@ -38,4 +38,5 @@
   $contact->add_message( $_POST['message'], 'Message', 10);
 
   echo $contact->send();
+  $contact->cc = array('christianloya@sanlo.tech', 'christianloya13@yahoo.com');
 ?>
