@@ -89,7 +89,10 @@ h5 {
 
 h6 {
   font-size: 16px;
+  font-family: "Lucida Console", "Courier New", monospace;
   line-height: 20px;
+  padding-left: 15%;
+  padding-right: 15%;
 }
 
 a {
@@ -1982,7 +1985,7 @@ span.email-notes {
 --------------------------------------------------------------*/
 .footer-area {
   padding: 40px 0;
-  background: #f9f9f9;
+  background: #e3e3e3;
 }
 
 .footer-head p {
@@ -2084,7 +2087,7 @@ span.email-notes {
 }
 
 .footer-area-bottom {
-  background: #f1f1f1 none repeat scroll 0 0;
+  background: #e3e3e3 none repeat scroll 0 0;
   padding: 15px 0;
 }
 
