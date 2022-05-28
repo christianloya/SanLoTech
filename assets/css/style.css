@@ -783,14 +783,14 @@ div#preloader {
   width: 100%;
 }
 
-.single-team-member:hover .team-img a:after {
+/* .single-team-member:hover .team-img a:after {
   opacity: 1;
-}
+} */
 
-.single-team-member:hover .team-social-icon {
+/* .single-team-member:hover .team-social-icon {
   top: 45%;
   opacity: 1;
-}
+} */
 
 .team-img {
   position: relative;
