@@ -88,8 +88,8 @@ h5 {
 }
 
 h6 {
-  font-size: 16px;
-  font-family: "Raleway", sans-serif;
+  font-size: 20px;
+  font-family: serif;
   line-height: 20px;
   padding-left: 15%;
   padding-right: 15%;
@@ -200,7 +200,7 @@ div#preloader {
   display: inline-block;
   font-size: 40px;
   font-weight: 600;
-  margin-bottom: 70px;
+  margin-bottom: 50px;
   position: relative;
   text-transform: capitalize;
 }
