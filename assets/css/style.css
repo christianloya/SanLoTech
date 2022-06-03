@@ -611,7 +611,7 @@ div#preloader {
 # About
 --------------------------------------------------------------*/
 .about-area {
-  background-color: white;
+  background-color:#F5F5F5;
 }
 
 .single-well > a {
@@ -713,7 +713,7 @@ div#preloader {
 }
 
 .single-team-member {
-  border: 1px solid #ddd;
+  
 }
 
 .team-left-text h4 {
@@ -1991,7 +1991,7 @@ span.email-notes {
 --------------------------------------------------------------*/
 .footer-area {
   padding: 40px 0;
-  background: #e3e3e3;
+  background: #F5F5F5;
 }
 
 .footer-head p {
@@ -2093,7 +2093,7 @@ span.email-notes {
 }
 
 .footer-area-bottom {
-  background: #e3e3e3 none repeat scroll 0 0;
+  background: #F5F5F5 none repeat scroll 0 0;
   padding: 15px 0;
 }
 
